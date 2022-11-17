@@ -10,20 +10,20 @@ Additional features:
 
 <hr>
 <h3>MUSIC COMMANDS</h3>
-<join --> discord bot joins voice channel of user
-<leave --> discord bot leaves voice channel 
-<play [URL OR SEARCH QUERY] --> streams audio from a url or a search query to a voice channel
-<playnext [INDEX] --> queues the "INDEX" track in the queue next
-<pause --> pauses the music player
-<resume --> resumes the music player
-<currenttrack --> prints out the current track information in the chat
-<skip --> skips the current track
-<skip [NUM] --> skips "NUM" total tracks
-<reset --> resets the queue to empty
-<viewtracks --> prints out all the tracks in the queue
-<playinqueue [INDEX] --> set the current song to the [INDEX] in the queue
-<shuffle --> shuffles the queue
-<playfromsource [SOURCE NAME, SEARCH QUERY] --> searches for a track from a source (e.g. <playfromsource soundcloud "song")
+<join --> discord bot joins voice channel of user<br>
+<leave --> discord bot leaves voice channel <br>
+<play [URL OR SEARCH QUERY] --> streams audio from a url or a search query to a voice channel<br>
+<playnext [INDEX] --> queues the "INDEX" track in the queue next<br>
+<pause --> pauses the music player<br>
+<resume --> resumes the music player<br>
+<currenttrack --> prints out the current track information in the chat<br>
+<skip --> skips the current track<br>
+<skip [NUM] --> skips "NUM" total tracks<br>
+<reset --> resets the queue to empty<br>
+<viewtracks --> prints out all the tracks in the queue<br>
+<playinqueue [INDEX] --> set the current song to the [INDEX] in the queue<br>
+<shuffle --> shuffles the queue<br>
+<playfromsource [SOURCE NAME, SEARCH QUERY] --> searches for a track from a source (e.g. <playfromsource soundcloud "song")<br>
 <hr> 
  
 
