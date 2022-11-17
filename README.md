@@ -10,7 +10,7 @@ Additional features:
 
 <hr>
 <h3>MUSIC COMMANDS</h3>
-<join --> discord bot joins voice channel of user<br>
+<join ---> discord bot joins voice channel of user<br>
 <leave --> discord bot leaves voice channel <br>
 <play [URL OR SEARCH QUERY] --> streams audio from a url or a search query to a voice channel<br>
 <playnext [INDEX] --> queues the "INDEX" track in the queue next<br>
