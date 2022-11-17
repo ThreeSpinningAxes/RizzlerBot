@@ -11,7 +11,7 @@ import java.net.http.HttpResponse;
 
 public class Dalle2Api {
 
-    private final String API_KEY = "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";
+    private final String API_KEY = "";
 
     private final String BASE_URL = "https://api.openai.com/v1/images/generations";
 
