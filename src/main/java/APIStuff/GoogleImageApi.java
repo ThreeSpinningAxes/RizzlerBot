@@ -17,9 +17,9 @@ import java.util.Random;
 
 public class GoogleImageApi {
 
-    private static String key = "AIzaSyBDbAJfber6IXPqQeqgXVF6KL0a7ZCWsCQ";
+    private static String key = "";
 
-    private static String cx = "967860b3a8a2a4254";
+    private static String cx = "";
 
     public static String getImageURL(String query) {
         String responseBody = ResponseFromGETRequestOfImageSearch(query);
