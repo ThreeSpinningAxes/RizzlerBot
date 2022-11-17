@@ -59,6 +59,6 @@ public class Watch2GetherAPI {
     }
     public static void main(String[] args) throws ConfigurationException, URISyntaxException, IOException, InterruptedException {
         Watch2GetherAPI a = new Watch2GetherAPI();
-        a.sendPOSTRequest("https://www.youtube.com/watch?v=sV2t3tW_JTQ&list=RDxMgE736TC4A&index=10");
+        a.sendPOSTRequest("");
     }
 }
